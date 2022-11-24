@@ -18,7 +18,8 @@ body{
 }
 #image img{
 
-  box-shadow: 0 0 84px rgb(0 0 0 / 13%)
+  box-shadow: 0 0 84px rgb(0 0 0 / 13%);
+  border-radius: 64px;
     
 }
 #info h2{
@@ -52,3 +53,4 @@ body{
     border-radius: 50%;
     box-shadow: 0 0 84px rgb(0 0 0 / 13%)
 }
+
