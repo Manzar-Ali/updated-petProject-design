@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+}
+#owner-info h2{
+    color: rgb(44, 123, 254);
+    font-size: 27px;
+}
+.items h3{
+    color: rgb(44, 123, 254);
+    font-size: 27px;
+}
+#contact-info {
+    margin-bottom: 200px;
+
+}
+#image{
+    margin-bottom: 100px;
+}
+#image img{
+
+  box-shadow: 0 0 84px rgb(0 0 0 / 13%)
+    
+}
+#info h2{
+    color: rgb(44, 123, 254);
+    font-size: 27px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    background: #0c0c0c;
+    color: white;
+    
+}
+#footer div p{
+   
+    text-align: center;
+    font-size: 19px;
+}
+#footer div p span{
+   
+    color: #5d94e7;
+}
+
+.home-img img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    box-shadow: 0 0 84px rgb(0 0 0 / 13%)
+}
